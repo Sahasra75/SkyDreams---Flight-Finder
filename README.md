@@ -1,13 +1,15 @@
 ✅ 1. Project Title & Demo
-# Flight Finder ✈️
 
+# Flight Finder ✈️
 ## 🎥 Demo Video  
 [▶️ Click here to watch the demo](https://drive.google.com/file/d/1V4rlPzQ9leOI65djP_PmCnZMLdEY76g2/view?usp=drivesdk) 
+
 
 ✅ 2. Project Description
 
 Fly beyond limits with Flight Finder — a full-stack MERN flight booking platform.  
 Includes Admin, Flight Operator, and User roles with real-time booking management.
+
 
 ✅ 3. Tech Stack
 
@@ -40,13 +42,28 @@ npm start
 
 
 
----
 
-### ✅ 5. (Optional) Features
-```md
+### ✅ 5. Features
+
 ## ✈️ Features
 - Book one-way & return flights
 - Real-time seat availability
 - Role-based access (Admin/User/Operator)
 - Add, edit, and delete flights
 - Fake payment gateway
+
+
+---
+
+##  ✅ 6.👨‍💻Team Details
+
+**Team ID**: LTVIP2025TMID59738  
+**Team Size**: 4  
+
+**Team Leader**:  
+Vellalacheruvu Devi Sahasra
+
+**Team Members**:  
+1. Tirumalasetti Vineela  
+2. Thippaluri Yaseen Basha  
+3. Thiruvaipati Lakshmi Navaneeth
